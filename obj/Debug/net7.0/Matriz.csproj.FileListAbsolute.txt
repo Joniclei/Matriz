@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/bin/Debug/net7.0/Matriz
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/bin/Debug/net7.0/Matriz.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/bin/Debug/net7.0/Matriz.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/bin/Debug/net7.0/Matriz.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/bin/Debug/net7.0/Matriz.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/Matriz.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/Matriz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/Matriz.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/Matriz.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/Matriz.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/Matriz.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/refint/Matriz.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/Matriz.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/Matriz.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/Matriz/obj/Debug/net7.0/ref/Matriz.dll
